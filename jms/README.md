@@ -7,7 +7,6 @@ The [JSR 343](https://jcp.org/en/jsr/detail?id=343) is an update to the Java Mes
  - jms-xa
  - send-receive
  - temp-destination
-
  - jms-batch
 
 ## How to run
