@@ -11,6 +11,7 @@ import javax.jms.JMSContext;
 import javax.jms.Queue;
 import javax.jms.TemporaryQueue;
 import javax.jms.TextMessage;
+import java.util.*;
 
 /**
  * Client receiving response to a message via temporary queue. The client has to be non-trasactional, as we need to send
